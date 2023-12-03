@@ -1,3 +1,51 @@
+UPDATE V1.12
+(French)
+Rajout d'une options pour garder la fenêtre toujours visible à l'écran
+(English)
+Added an option to keep the window always visible on the screen
+(Deutsche)
+Es wurde eine Option hinzugefügt, um das Fenster immer auf dem Bildschirm sichtbar zu halten
+
+UPDATE V1.11
+(French)
+Corrigé une faute d'orthographe
+(English)
+Fixed a spelling mistake
+(Deutsche)
+Rechtschreibfehler behoben
+
+UPDATE V1.10
+(French)
+Rajout d'une fenetre d'options pour définir la vocation actuellement utilisé
+(English)
+Added an options window to set the currently used vocation
+(Deutsche)
+Es wurde ein Optionsfenster hinzugefügt, um die aktuell verwendete Berufung festzulegen
+
+UPDATE V1.09
+(French)
+Correction d'un bug dans le jeu des monstres
+(English)
+Corrected a bug in the monster play
+(Deutsche)
+Fehler im Monsterspiel behoben
+
+UPDATE V1.08
+(French)
+Rajout d'une commande toggle
+(English)
+Addition of a toggle command
+(Deutsche)
+Hinzufügen eines Umschaltbefehls
+
+UPDATE V1.07
+(French)
+Correction d'un bug dans la langue allemande
+(English)
+Fixed bug in German language
+(Deutsche)
+Fehler in deutscher Sprache behoben
+
 UPDATE V1.06
 (French)
 Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
