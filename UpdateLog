@@ -1,3 +1,11 @@
+UPDATE V1.13
+(French)
+Correction d'un bug qui empêchai l'ouverture de la fenêtre d'options avec la ligne de command
+(English)
+Fixed a bug that prevented the options window from opening with the command line
+(Deutsche)
+Es wurde ein Fehler behoben, der verhinderte, dass das Optionsfenster mit der Befehlszeile geöffnet wurde
+
 UPDATE V1.12
 (French)
 Rajout d'une options pour garder la fenêtre toujours visible à l'écran
