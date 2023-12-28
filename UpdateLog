@@ -1,3 +1,30 @@
+UPDATE V1.16
+(French)
+Corriger quelques bugs
+(English)
+Fix some bugs
+(Deutsche)
+Beheben Sie einige Fehler
+
+UPDATE V1.15
+(French)
+Corriger quelques bugs
+Réécrit toutes la partie de localisation
+(English)
+Fix some bugs
+Rewrote all the localization part
+(Deutsche)
+Beheben Sie einige Fehler
+Der gesamte Lokalisierungsteil wurde neu geschrieben
+
+UPDATE V1.14
+(French)
+Ajout d'une option no vocation si vous n'en choisissez pas
+(English)
+Adding a no vocation option if you don't choose one
+(Deutsche)
+Hinzufügen einer Option "Keine Berufung", wenn Sie keine auswählen
+
 UPDATE V1.13
 (French)
 Correction d'un bug qui empêchai l'ouverture de la fenêtre d'options avec la ligne de command
