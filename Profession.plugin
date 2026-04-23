@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Profession</Name>
+		<Author>Homeopatix</Author>
+		<Version>1.19</Version>
+ <Description>
+	 DESCRIPTION (Francais)
+	 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	 Profession est un petit plugin pour avoir un acces rapide a vos raccourcis de profession
+
+	 DESCRIPTION (English)
+	 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	 Profession is a small plugin to have quick access to your profession shortcuts
+
+	 DESCRIPTION (Deutsche)
+	 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	 Profession ist ein kleines Plugin, mit dem Sie schnell auf Ihre Berufsverknupfungen zugreifen konnen
+
+	 LIST OF ALL COMMANDS
+	 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+	 (French)
+	 Raccourci disponible
+	 /Pro show - montre la fenetre
+	 /Pro hide - cache la fenetre
+	 /Pro esc - active ou desactive la touche escape
+	 /Pro alt - Active ou desactive la touche alt pour le deplacement de l'icon
+	 /Pro toggle - Affiche ou cache la fenetre
+	 /Pro always -- Pour toujours afficher la fenetre
+
+	 (English)
+	 Shortcut available
+	 /Pro show - show the window
+	 /Pro hide - hide the window
+	 /Pro esc - activate or deactivate the escape key
+	 /Pro alt - Activate or deactivate the alt key to move the icon
+	 /Pro toggle - Display or hide the window
+	 /Pro always -- To always show the window
+
+	 (Deutsche)
+	 Verknupfung verfugbar
+	 /Pro show - zeige das Fenster
+	 /Pro Hide - Verstecke das Fenster
+	 /Pro esc - Aktivieren oder deaktivieren Sie die Escape-Taste
+	 /Pro alt - ALT-Taste gedruckt halten um das Symbol zu verschieben
+	 /Pro toggle - Fenster ein-oder ausblenden
+	 /Pro always -- Um das Fenster immer anzuzeigen
+ </Description>
+<Image>Homeopatix/Profession/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.Profession.Main</Package>
+<Configuration Apartment="Profession" />
+</Plugin>
